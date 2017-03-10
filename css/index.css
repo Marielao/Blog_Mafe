@@ -1,0 +1,120 @@
+.headerPrincipal{background: #6D8700; background: #6D8700; overFlow:hidden;
+ ;border-radius:60px 60px 60px 50px;padding:10px;}
+
+.headerPrincipal h1{color:#4A2E11;text-align:center;font-size:50px}
+.headerPrincipal h2{color:#4A2E11;text-align:center;font-size:50px}
+.logotipo {float:left;}
+
+
+.menuOpciones ul li {display: inline-block;background:#4B2806;padding:20px;margin:0px}
+.menuOpciones ul li a{color:#fff;font-size:30px;text-decoration:none}
+
+.enunciado1{
+	float: left;
+
+	}
+.enunciados2{
+	float: left;
+	
+}
+.enunciados1 h2{
+	color:#4A2E11;
+		text-align: left;
+		font-size:80px;
+		margin-left:40px;
+		position: relative;
+		top: 30px;
+
+}
+.enunciado1{
+ float: right; 
+    width: 400px; 
+
+
+}
+
+
+.productos1{
+	float:left
+ 
+
+
+}
+
+
+.imagen_mascotas{
+	margin-top: 500px;
+      float:left
+	
+
+}
+.mascotas{
+	 font-size: 14px;
+    line-height: 25px;
+  
+        height: 450px;
+    width: 700px;
+}
+
+img{
+
+        height: 300px;
+    width: 400px;
+
+
+}
+
+.enunciado1 p{
+	height: 300px;
+    width: 400px;
+    font-size: 30px;
+    color: ##4B2806;
+    font-family: Tahoma;
+    line-height: 35px;
+    position: relative;
+    text-align: justify;
+    top:-100px ;
+    bottom: ;
+    right: ;
+    left: ;
+}
+.enunciado2 p{
+	height: 300px;
+    width: 400px;
+    font-size: 30px;
+    color: #4A2E11;
+    font-family: Tahoma;
+    line-height: 35px;
+    position: relative;
+    text-align: justify;
+    top:-140px;
+    bottom: ;
+    right: ;
+    left: ;
+}
+.enunciado1 h3{
+height: 100px;
+    width: -300px;
+    font-size: 50px;
+    color: #4A2E11;
+    line-height: 40px;
+    position: relative;
+    top:-40px;
+    bottom: ;
+    right: ;
+    left: ;
+}
+
+.enunciado2 h3{
+	height: 100px;
+    width: -300px;
+    font-size: 50px;
+    color: #4A2E11;
+    line-height: 40px;
+    position: relative;
+    top:-40px;
+    bottom: ;
+    right: ;
+    left: ;
+}
+
